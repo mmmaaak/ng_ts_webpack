@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "sourceMap": false,
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "outDir": "public"
+  },
+  "exclude": [
+    "node_modules",
+    "public",
+    "typings/index.d.ts",
+    "typings/index"
+  ]
+}
